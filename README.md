@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph4n4n&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ph4n4n&repo=andb)](https://github.com/ph4n4n/github-readme-stats)
+
 <!--
 **ph4n4n/ph4n4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
