@@ -1,4 +1,5 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ph4n4n&show_icons=true&theme=default)
 
 <!--
 **ph4n4n/ph4n4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
