@@ -31,6 +31,11 @@ Backend developer & database holic who enjoys building practical tools with clea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph4n4n&layout=compact)
 
 ---
+### 📫 Contact Me
+
+- 📧 Email: [ph4n4n.dev@gmail.com](mailto:ph4n4n.dev@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/anph/](https://www.linkedin.com/in/anph)  
+- 🧑‍💻 GitHub: [github.com/ph4n4n](https://github.com/ph4n4n)
 
 <!--
 **ph4n4n/ph4n4n** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
