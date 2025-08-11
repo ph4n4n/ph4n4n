@@ -33,7 +33,7 @@ Backend developer & database holic who enjoys building practical tools with clea
 ---
 ### 📫 Contact Me
 
-- 📧 Email: [ph4n4n.dev@gmail.com](mailto:ph4n4n.dev@gmail.com)  
+- 📧 Email: [ph4n4n@gmail.com](mailto:ph4n4n@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/anph/](https://www.linkedin.com/in/anph)  
 - 🧑‍💻 GitHub: [github.com/ph4n4n](https://github.com/ph4n4n)
 
