@@ -26,9 +26,7 @@ Backend developer & database holic who enjoys building practical tools with clea
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ph4n4n&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph4n4n&layout=compact)
+![GitHub 3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 ### 📫 Contact Me
