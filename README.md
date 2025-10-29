@@ -26,7 +26,7 @@ Backend developer & database holic who enjoys building practical tools with clea
 ---
 
 ### 📊 GitHub Stats
-![GitHub 3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub 3D Profile](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 ### 📫 Contact Me
