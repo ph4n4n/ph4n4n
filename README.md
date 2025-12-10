@@ -24,7 +24,7 @@ Backend developer & database holic who enjoys building practical tools with clea
 > Built for CLI and backend tools. Outputs clean, color-coded logs with time supported via timezone setup.
 
 
-### 🧮 [vietnam-pit][https://github.com/ph4n4n/vietnam-PIT]
+### 🧮 [vietnam-pit](https://github.com/ph4n4n/vietnam-PIT)
 ---
 
 ### 📊 GitHub Stats
