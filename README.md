@@ -23,10 +23,21 @@ Backend developer & database holic who enjoys building practical tools with clea
 > **Minimal and structured logger for TypeScript/Node.js**  
 > Built for CLI and backend tools. Outputs clean, color-coded logs with time supported via timezone setup.
 
+
+### 🧮 [vietnam-pit][https://github.com/ph4n4n/vietnam-PIT]
 ---
 
 ### 📊 GitHub Stats
 ![GitHub 3D Profile](./profile-3d-contrib/profile-night-green.svg)
+> **Minimal Vietnam Personal Income Tax Calculator - Comparison between the 2025 Tax Law and the new 2026 Tax Law.**
+
+> Features
+  - Calculates personal income tax from gross or net income
+  - Parallel comparison of 2025 vs 2026 tax rates
+  - Supports 4 minimum wage regions
+  - Calculates dependents (family allowance deductions)
+  - Displays year-end tax refunds
+  - Responsive interface, mobile supported
 
 ---
 ### 📫 Contact Me
