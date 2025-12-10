@@ -25,10 +25,6 @@ Backend developer & database holic who enjoys building practical tools with clea
 
 
 ### 🧮 [vietnam-pit](https://github.com/ph4n4n/vietnam-PIT)
----
-
-### 📊 GitHub Stats
-![GitHub 3D Profile](./profile-3d-contrib/profile-night-green.svg)
 > **Minimal Vietnam Personal Income Tax Calculator - Comparison between the 2025 Tax Law and the new 2026 Tax Law.**
 
 > Features
@@ -38,6 +34,11 @@ Backend developer & database holic who enjoys building practical tools with clea
   - Calculates dependents (family allowance deductions)
   - Displays year-end tax refunds
   - Responsive interface, mobile supported
+---
+
+### 📊 GitHub Stats
+![GitHub 3D Profile](./profile-3d-contrib/profile-night-green.svg)
+
 
 ---
 ### 📫 Contact Me
