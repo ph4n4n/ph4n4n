@@ -1,41 +1,46 @@
-## Hi there 👋 I'm Ân (a.k.a ph4n4n)
+# Hi there 👋 I'm Ân (ph4n4n)
 
-Backend developer & database enthusiast who enjoys building practical tools with clean architecture.
+**Backend Developer & Database Enthusiast** who enjoys building developer-first tools with clean architecture and reliable logic.
 
 ---
 
 ### 🚀 Spotlight Project
 
-#### ⚡ [ZTools.site](https://ztools.site)
-> **Your Digital Toolbox, Simplified.**  
-> A comprehensive, privacy-first digital toolbox that runs 100% client-side.
-> - **Tech**: Node.js SSG, EJS, Vanilla JS/CSS3.
-> - **Highlights**: 28+ essential utilities (Lunar Calendar, Text Formatter, Bookmark Creator...), optimized for speed with a 99+ Lighthouse performance score.
+#### 🛠️ [The Andb](https://github.com/The-Andb/andb)
+> **"Git for Database Schemas" — Database Migrations, Reimagined.**
+> A powerful, open-source ecosystem (Core, CLI, GUI) built to restore trust and visibility in your database migrations. Experience the most intuitive way to visualize, compare, and sync schemas.
+>
+> - **[andb-core](https://github.com/The-Andb/andb-core)**: Universal engine for atomic DDL comparison & migration generation.
+> - **[andb-ui](https://github.com/The-Andb/andb)**: Premium macOS desktop app with Master Password protection and real-time visualization.
+> - **Tech**: TypeScript, Node.js, SQLite, MySQL, PostgreSQL.
 
 ---
 
 ### 🛠️ Tech Stack
-- Languages: **TypeScript**, **SQL**, **Shell**, **JavaScript**
-- Backend: **Node.js**, **NestJS**, **Express**
-- Database: **MySQL**, **PostgreSQL**
-- Tools: **Docker**, **Git**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,mysql,postgres,docker,git,bash,js" />
+</p>
+
+- **Backend**: Node.js, NestJS, Express, Worker Threads
+- **Databases**: MySQL, PostgreSQL, SQLite (local metadata)
+- **DevOps**: Docker, CI/CD, Shell Scripting
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🔍 [andb-core](https://github.com/ph4n4n/andb-core)
-> **A DDL comparator & migration tool**  
-> Compare, export, and apply schema diffs for MySQL-compatible databases.  
-> Supports tables, functions, procedures, and triggers.
+#### ⚡ [ZTools.site](https://ztools.site)
+> **Your Digital Toolbox, Simplified.**  
+> A privacy-first, 100% client-side collection of 28+ essential utilities. Optimized for speed with a 99+ Lighthouse score.
 
 #### 🧮 [vietnam-pit](https://github.com/ph4n4n/vietnam-PIT)
 > **Vietnam Personal Income Tax Calculator**  
-> Parallel comparison between 2025 and 2026 tax laws. Supports 4 minimum wage regions and year-end tax refund calculations.
+> Parallel comparison between 2025 and 2026 tax laws, supporting region-based minimum wages and year-end tax refunds.
 
 #### 📑 [andb-logger](https://github.com/ph4n4n/andb-logger)
-> **Minimal and structured logger for TypeScript/Node.js**  
-> Built for CLI and backend tools. Outputs clean, color-coded logs with local timezone support.
+> **Minimalist Logger for TS/Node.js**  
+> Clean, color-coded, and structured logging optimized for CLI tools and backend services.
 
 ---
 
@@ -46,10 +51,12 @@ Backend developer & database enthusiast who enjoys building practical tools with
 
 ### 📫 Contact Me
 
-- 📧 Email: [ph4n4n@gmail.com](mailto:ph4n4n@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/anph](https://www.linkedin.com/in/anph)  
-- 🧑‍💻 GitHub: [github.com/ph4n4n](https://github.com/ph4n4n)
+<p align="left">
+  <a href="mailto:ph4n4n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anph"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ph4n4n"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <!--
-**ph4n4n/ph4n4n** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**ph4n4n/ph4n4n** is a ✨ _special_ ✨ repository because its README.md appears on your GitHub profile.
 -->
